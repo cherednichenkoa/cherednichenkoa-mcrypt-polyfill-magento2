@@ -3,7 +3,7 @@
     "description": "Fix warning with usage of mcrypt-ext/magento2",
     "type": "magento2-module",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name":     "Artem Cherednichenko",
