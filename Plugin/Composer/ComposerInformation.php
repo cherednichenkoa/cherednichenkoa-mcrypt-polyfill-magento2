@@ -1,6 +1,6 @@
 <?php
 
-namespace Cherednichenkoa\McryptPolyfill\Plugin;
+namespace Cherednichenkoa\McryptPolyfill\Plugin\Composer;
 
 use Cherednichenkoa\McryptPolyfill\Helper\Data;
 
